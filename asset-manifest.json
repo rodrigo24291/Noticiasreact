@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Noticiasreact/static/css/main.9df3ab93.chunk.css",
+    "main.js": "/Noticiasreact/static/js/main.dc1c909b.chunk.js",
+    "main.js.map": "/Noticiasreact/static/js/main.dc1c909b.chunk.js.map",
+    "runtime-main.js": "/Noticiasreact/static/js/runtime-main.0bb55bd2.js",
+    "runtime-main.js.map": "/Noticiasreact/static/js/runtime-main.0bb55bd2.js.map",
+    "static/js/2.d3147e6d.chunk.js": "/Noticiasreact/static/js/2.d3147e6d.chunk.js",
+    "static/js/2.d3147e6d.chunk.js.map": "/Noticiasreact/static/js/2.d3147e6d.chunk.js.map",
+    "index.html": "/Noticiasreact/index.html",
+    "static/css/main.9df3ab93.chunk.css.map": "/Noticiasreact/static/css/main.9df3ab93.chunk.css.map",
+    "static/js/2.d3147e6d.chunk.js.LICENSE.txt": "/Noticiasreact/static/js/2.d3147e6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb55bd2.js",
+    "static/js/2.d3147e6d.chunk.js",
+    "static/css/main.9df3ab93.chunk.css",
+    "static/js/main.dc1c909b.chunk.js"
+  ]
+}
